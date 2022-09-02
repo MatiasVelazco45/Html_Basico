@@ -1,5 +1,5 @@
 Etiquetas útiles 
 
-<br>  /salto de linea.
+<br/>  /salto de linea.
 <b></b> Resaltar en negrita.
 <i> Muestra el texto marcado con un estilo en cursiva o italica</i>
