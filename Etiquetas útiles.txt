@@ -1,0 +1,4 @@
+Etiquetas útiles 
+
+<br>  /salto de linea.
+<b> Resaltar en negrita.
