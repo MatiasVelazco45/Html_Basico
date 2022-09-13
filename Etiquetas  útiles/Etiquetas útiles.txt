@@ -6,3 +6,4 @@ Etiquetas útiles
 <hr/>  Linea horizontal
 <big></big> Aumenta el tamaño de una palabra y.. texto?
 <small></small>  Disminuye el tamaño
+<strike></strike> Para tachar
